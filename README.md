@@ -1,8 +1,8 @@
-# CodeSync Cloud Storage Website Template
+# FileSync Cloud Storage Website Template
 
-![CodeSync Cloud Storage](screenshot.png)
+![FileSync Cloud Storage](screenshot.png)
 
-The CodeSync Cloud Storage Website Template is a modern and visually appealing web template designed for cloud storage service providers. It offers a professional and user-friendly platform to showcase your cloud storage services, engage with potential customers, and establish a strong online presence.
+The FileSync Cloud Storage Website Template is a modern and visually appealing web template designed for cloud storage service providers. It offers a professional and user-friendly platform to showcase your cloud storage services, engage with potential customers, and establish a strong online presence.
 
 ## Table of Contents
 - [Demo](#demo)
@@ -15,7 +15,7 @@ The CodeSync Cloud Storage Website Template is a modern and visually appealing w
 
 ## Demo
 
-You can see a live demo of the CodeSync Cloud Storage Website Template [here](https://www.example.com).
+You can see a live demo of the FileSync Cloud Storage Website Template [here](https://filesync-cloud.vercel.app).
 
 ## Features
 
