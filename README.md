@@ -22,7 +22,7 @@ You can see a live demo of the FileSync Cloud Storage Website Template [here](ht
 1. **Loader Animation:** Engage users with an eye-catching loader animation.
 2. **Sticky Navigation:** The navbar remains fixed at the top for easy navigation.
 3. **Transparent Navbar:** The navbar becomes semi-transparent and blurred on scroll.
-4. **Logo:** A stylish logo with the brand name "Code Sync" and subtle blue accents.
+4. **Logo:** A stylish logo with the brand name "File Sync" and subtle blue accents.
 5. **Banner Section:** A captivating main banner with compelling headlines and call-to-action buttons.
 6. **About Us Section:** Informative "About Us" section with engaging text and blended background image.
 7. **Pricing Plans:** Showcase various pricing plans with details and an interactive slider.
